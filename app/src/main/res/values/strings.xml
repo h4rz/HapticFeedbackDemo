@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HapticFeedbackDemo</string>
+    <string name="virtual_key_release">VIRTUAL_KEY_RELEASE</string>
+    <string name="virtual_key">VIRTUAL_KEY</string>
+    <string name="text_handle_move">TEXT_HANDLE_MOVE</string>
+    <string name="reject">REJECT</string>
+    <string name="long_press">LONG_PRESS</string>
+    <string name="keyboard_tap">KEYBOARD_TAP</string>
+    <string name="keyboard_release">KEYBOARD_RELEASE</string>
+    <string name="keyboard_press">KEYBOARD_PRESS</string>
+    <string name="gesture_end">GESTURE_END</string>
+    <string name="gesture_start">GESTURE_START</string>
+    <string name="context_click">CONTEXT_CLICK</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="clock_tick">CLOCK_TICK</string>
+</resources>
